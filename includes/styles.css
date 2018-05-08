@@ -1,0 +1,33 @@
+@charset "utf-8";
+
+/* HTML and Body Styles */
+
+html {
+	background: gray;
+	font-family: Verdana, Geneva, sans-serif;
+}
+
+body {
+	width: 800px;
+	background: white;
+	margin: 0 auto;
+	padding: 50px;
+}
+
+header {
+	background: orange;
+	padding: 10px 5px;
+	text-align: center;
+}
+
+table {
+	text-align: center;
+}
+
+figcaption {
+	font-size: 10px;
+}
+
+figure {
+	float: left;
+}
