@@ -15,13 +15,14 @@ body {
 }
 
 header {
-	background: orange;
+	background: #008006;
 	padding: 10px 5px;
 	text-align: center;
 }
 
 table {
 	text-align: center;
+	width: 100%;
 }
 
 figcaption {
@@ -30,4 +31,9 @@ figcaption {
 
 figure {
 	float: left;
+	width: 33.33%;
+	
+	
+	margin-left: 0px;
+	margin-right: 0px;
 }

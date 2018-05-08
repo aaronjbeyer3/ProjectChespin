@@ -42,15 +42,21 @@ for ($c = 0; $row = mysqli_fetch_row($result); $c++)
 	print ('<td>
 				<figure>
 					<img src="images/gen1/red-green/'. $row[0] .'.png" alt="'. $row[1] .'RGSprite">
-					<figcaption>Green</figcaption>
+					<img src="images/gen1/red-green/back/'. $row[0] .'.png" alt="'. $row[1] .'RGSprite">
+					<figcaption style=color:green>Green</figcaption>
 				</figure>
 				<figure>
 					<img src="images/gen1/red-blue/'. $row[0] .'.png" alt="'. $row[1] .'RBSprite">
-					<figcaption>Red/Blue</figcaption>
+					<img src="images/gen1/red-blue/back/'. $row[0] .'.png" alt="'. $row[1] .'RBSprite">
+					<figcaption>
+						<span style=color:red>Red</span> /
+						<span style=color:blue>Blue</span>
+					</figcaption>
 				</figure>
 				<figure>
 					<img src="images/gen1/yellow/'. $row[0] .'.png" alt="'. $row[1] .'YSprite">
-					<figcaption>Yellow</figcaption>
+					<img src="images/gen1/yellow/back/'. $row[0] .'.png" alt="'. $row[1] .'YSprite">
+					<figcaption style=color:orange>Yellow</figcaption>
 				</figure>
 			</td>');
 		
