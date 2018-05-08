@@ -50,7 +50,7 @@ INSERT INTO pkmn VALUES
 (036, 'Clefable'),
 (037, 'Vulpix'),
 (038, 'Ninetales'),
-(039, 'Jigglypuff'),
+(039, 'Miggy'),
 (040, 'Wigglytuff'),
 (041, 'Zubat'),
 (042, 'Golbat'),
