@@ -1,7 +1,7 @@
 # ProjectChespin
 Pokemon database project
 
-Check it out here --> http://96.2.94.249/ProjectChespin/
+Check it out here --> http://www.chipmg.com/ProjectChespin/
 
 Not sure what this will become.
 Somewhat just creating a Pokemon database for fun. But with the database I'll be able to create a lot of different Pokemon tools to use.
